@@ -1,0 +1,424 @@
+
+.loai-mat-hang {
+  width: 1280px;      
+  margin: 0 auto;     
+  position: relative; 
+  min-height: 1920px;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.loai-mat-hang .left-BG {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 721px;
+  height: 1917px;
+  background-color: #497174;
+}
+
+.loai-mat-hang .right-BG {
+  position: absolute;
+  top: 3px;
+  left: 721px;
+  width: 719px;
+  height: 1917px;
+  background-color: #e4e5de;
+}
+
+.loai-mat-hang .front-BG {
+  position: absolute;
+  top: 53px;
+  left: 40px;
+  width: 1200px;
+  height: 1879px;
+  background-color: #fffdfd;
+  border-radius: 25px;
+}
+
+
+.loai-mat-hang .icon-buy {
+position: absolute;
+  top: 77px;
+  right: 200px;        
+  width: 32px;
+  height: 32px;
+}
+
+.loai-mat-hang .icon-user {
+  position: absolute;
+  top: 77px;
+  right: 100px;       
+  width: 36px;
+  height: 36px;
+}
+
+.loai-mat-hang .icon-srch {
+ position: absolute;
+  top: 77px;          
+  right: 300px;       
+  width: 30px;        
+  height: 30px;
+}
+
+.loai-mat-hang .ai {
+  position: absolute;
+  top: 66px;
+  right: 400px;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .adidas {
+  position: absolute;
+  top: 58px;
+  right: 500px;
+  width: 70px;
+  height: 70px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .text-wrapper {
+  position: absolute;
+  top: 125px;
+  left: 278px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .menu {
+  position: absolute;
+  top: 68px;
+  left: 103px;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .undo {
+  position: absolute;
+  top: 118px;
+  left: 103px;
+  width: 50px;
+  height: 50px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .sanpham {
+  top: 203px;
+  left: 103px;
+  width: 350px;
+  height: 395px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .element-adidas {
+  position: absolute;
+  top: 628px;
+  left: 103px;
+  width: 400px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .span {
+  font-weight: 700;
+}
+
+.loai-mat-hang .text-wrapper-2 {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.loai-mat-hang .text-wrapper-3 {
+  font-family: "Hahmlet-Regular", Helvetica;
+}
+
+.loai-mat-hang .div {
+  position: absolute;
+  top: 1220px;
+  left: 103px;
+  width: 400px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .p {
+  position: absolute;
+  top: 1220px;
+  left: 465px;
+  width: 400px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .element-adidas-2 {
+  position: absolute;
+  top: 1220px;
+  left: 828px;
+  width: 400px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .img {
+  top: 795px;
+  left: 465px;
+  width: 350px;
+  height: 394px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .sanpham-2 {
+  top: 203px;
+  left: 828px;
+  width: 350px;
+  height: 394px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .element-adidas-3 {
+  position: absolute;
+  top: 628px;
+  left: 828px;
+  width: 315px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .element-adidas-4 {
+  position: absolute;
+  top: 628px;
+  left: 465px;
+  width: 316px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .sanpham-3 {
+  top: 203px;
+  left: 465px;
+  width: 350px;
+  height: 394px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .sanpham-4 {
+  top: 795px;
+  left: 103px;
+  width: 350px;
+  height: 395px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .khung-foot {
+  position: absolute;
+  top: 1374px;
+  left: 0;
+  width: 1440px;
+  height: 546px;
+  background-color: #497174;
+}
+
+.loai-mat-hang .l-aboutus {
+  position: absolute;
+  top: 1531px;
+  left: 81px;
+  width: 197px;
+  height: 3px;
+}
+
+.loai-mat-hang .l-product {
+  top: 1617px;
+  left: 79px;
+  width: 234px;
+  position: absolute;
+  height: 3px;
+}
+
+.loai-mat-hang .l-support {
+  top: 1703px;
+  left: 79px;
+  width: 314px;
+  position: absolute;
+  height: 3px;
+}
+
+.loai-mat-hang .l-collection {
+  top: 1789px;
+  left: 79px;
+  width: 419px;
+  position: absolute;
+  height: 3px;
+}
+
+.loai-mat-hang .l-contact {
+  top: 1879px;
+  left: 69px;
+  width: 419px;
+  position: absolute;
+  height: 3px;
+}
+
+.loai-mat-hang .frame {
+  position: absolute;
+  top: 1829px;
+  left: 397px;
+  width: 25px;
+  height: 25px;
+  background-image: url(./img/vector.svg);
+  background-size: 100% 100%;
+}
+
+.loai-mat-hang .text-wrapper-4 {
+  position: absolute;
+  top: 1460px;
+  left: 80px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .text-wrapper-5 {
+  position: absolute;
+  top: 1546px;
+  left: 78px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .text-wrapper-6 {
+  position: absolute;
+  top: 1632px;
+  left: 78px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .text-wrapper-7 {
+  position: absolute;
+  top: 1718px;
+  left: 78px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .text-wrapper-8 {
+  position: absolute;
+  top: 1808px;
+  left: 68px;
+  font-family: "Hahmlet-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.loai-mat-hang .icon-IG {
+ position: absolute;
+  bottom: 75px;
+  left: 260px;
+  width: 30px;
+  height: 30px;
+}
+
+.loai-mat-hang .icon-YTB {
+  position: absolute;
+  bottom: 75px;
+  left: 380px; 
+  width: 35px;
+  height: 25px;
+}
+
+.loai-mat-hang .icon-face {
+  position: absolute;
+  bottom: 75px;
+  left: 320px;
+  width: 30px;
+  height: 30px;
+}
+.loai-mat-hang .icon-X{
+  position: absolute;
+  bottom: 75px;
+  left: 440px;
+  width: 30px;
+  height: 30px;
+}
+
+.loai-mat-hang .logo-ADIDAS-foot {
+  position: absolute;
+  top: 1415px;
+  left: 600px;
+  width: 595px;
+  height: 546px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.loai-mat-hang .samba-jane-shoes {
+  position: absolute;
+  top: 795px;  
+  left: 828px; 
+  width: 350px;
+  height: 394px;
+  object-fit: cover;
+}
